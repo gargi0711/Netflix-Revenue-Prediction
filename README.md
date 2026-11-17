@@ -4,9 +4,9 @@ About the Project
 This is our Machine Learning project based on Netflix revenue data. We applied different ML algorithms to analyse the data and predict revenue.
 
 Team Members
-1. Gargi – [Roll Number]
-2. Hansika – [Roll Number]
-3. Palak – [Roll Number]
+1. Gargi – 250441
+2. Hansika – 250443
+3. Palak – 250450
 
 Algorithms Used
 Supervised Learning:**
